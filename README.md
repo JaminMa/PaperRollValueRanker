@@ -13,7 +13,7 @@ A static web application designed to help you compare the true cost of Bounty pa
 
 ## How to Use
 
-1. Visit the live tool at [https://jaminma.github.io/PaperRollValueRanker/](https://jaminma.github.io/PaperRollValueRanker/) (or open `index.html` locally).
+1. Visit the live tool at [https://jaminma.github.io/paper-roll-value-ranker/](https://jaminma.github.io/paper-roll-value-ranker/) (or open `index.html` locally).
 2. Enter the **Product Title** (e.g., "Bounty Quick-Size Family Triple Rolls 8-Pk") and the **Price**.
 3. (Optional) Provide a link to the product listing for easy reference.
 4. Click **Calculate & Add**. The item will be added to the appropriate brand's ranking list.
